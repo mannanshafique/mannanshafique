@@ -5,3 +5,5 @@
 - 📫 How to reach me: shafiquemanan42@gmail.com
 - 😄 Pronouns: MMS
 - ⚡ Fun fact: Browsing 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannanshafique&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
