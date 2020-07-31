@@ -6,4 +6,4 @@
 - 😄 Pronouns: MMS
 - ⚡ Fun fact: Browsing,BLogging 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannanshafique&theme=tokyonight &layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannanshafique&theme=radical&layout=compact)
