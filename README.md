@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mobile App Development
 - 🌱 I’m currently learning Java and Flutter For App Development
-- 📫 How to reach me: shafiquemanan42@gmail.com
+- 📫 How to reach me: shafiquemanan42@gmail.com (Email)
 - 😄 Pronouns: MMS
 - ⚡ Fun fact: Browsing,BLogging 
 
