@@ -8,5 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannanshafique&theme=radical&layout=compact)
 
-https://github.com/mannanshafique/Recipe-App-Java-
-https://github.com/mannanshafique/Qr-Code_Scanner-Generator
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
