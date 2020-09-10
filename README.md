@@ -7,5 +7,3 @@
 - ⚡ Fun fact: Browsing,freelancing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mannanshafique&theme=radical&layout=compact)
-
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
